@@ -1,1 +1,3 @@
-java-basics
+# Java Basics
+
+General purpose project for testing classes, algorithms, etc...
